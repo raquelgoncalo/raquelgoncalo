@@ -2,22 +2,22 @@
 
 ## Desenvolvedora de Sistemas | Software Developer | Automação | APIs | Inteligência Artificial
 
-Sou **Desenvolvedora de Sistemas**, com experiência no desenvolvimento de aplicações web, sistemas de gestão, automações, integrações de APIs e soluções com Inteligência Artificial.
+Sou **Desenvolvedora de Sistemas**, com experiência no desenvolvimento de aplicações, sistemas de gestão, automações, integrações de APIs e soluções com Inteligência Artificial.
 
-Atuo com desenvolvimento tradicional, **Low-Code e No-Code**, utilizando tecnologias como **Delphi, JavaScript, Python, Bubble.io, PostgreSQL, Supabase e n8n**.
+Atuo com desenvolvimento tradicional, **Low-Code e No-Code**, utilizando tecnologias como **Delphi, Python, JavaScript, Bubble.io, PostgreSQL, Supabase e n8n**.
 
-Tenho experiência na criação de soluções que integram sistemas, bancos de dados, APIs e serviços externos, com foco em **automação de processos, desenvolvimento de software e integração de sistemas**.
+Tenho experiência na criação de soluções que integram sistemas, bancos de dados, APIs e serviços externos, com foco em **desenvolvimento de software, automação de processos e integração de sistemas**.
 
 ## 💻 Competências Técnicas
 
 **Linguagens e Desenvolvimento**
 
 * Delphi
-* JavaScript
 * Python
+* JavaScript
+* SQL
 * HTML
 * CSS
-* SQL
 
 **Banco de Dados e Back-end**
 
@@ -51,18 +51,23 @@ Tenho experiência na criação de soluções que integram sistemas, bancos de d
 * n8n
 * Supabase
 
-**Ferramentas de Desenvolvimento**
+**Ferramentas e Ambientes de Desenvolvimento**
 
+* Delphi IDE
+* PyCharm
+* Visual Studio Code
 * Git
 * GitHub
-* Visual Studio Code
 * Jupyter Notebook
 * JupyterLab
 
 ## 💼 Áreas de Atuação
 
 * Desenvolvimento de sistemas
+* Desenvolvimento de software
 * Desenvolvimento de aplicações web
+* Desenvolvimento com Delphi
+* Desenvolvimento com Python
 * Sistemas administrativos e de gestão
 * Desenvolvimento Back-end
 * Bancos de dados PostgreSQL
@@ -70,17 +75,17 @@ Tenho experiência na criação de soluções que integram sistemas, bancos de d
 * Integração de APIs REST
 * Integração entre sistemas
 * Automação de processos
-* Desenvolvimento Low-Code e No-Code
 * Automações com n8n
+* Desenvolvimento Low-Code e No-Code
 * Soluções com Inteligência Artificial
 * Agentes de IA
 * Integrações com WhatsApp
 
 ## 🎯 Perfil Profissional
 
-Meu objetivo é desenvolver soluções de software que combinem **desenvolvimento de sistemas, bancos de dados, APIs, automação e Inteligência Artificial**.
+Meu objetivo é desenvolver soluções que combinem **desenvolvimento de software, bancos de dados, APIs, automação e Inteligência Artificial**.
 
-Tenho interesse em oportunidades relacionadas a **Desenvolvimento de Sistemas, Desenvolvimento de Software, Back-end, Automação, Integração de Sistemas, APIs, Low-Code/No-Code e Inteligência Artificial**.
+Tenho interesse em oportunidades relacionadas a **Desenvolvimento de Sistemas, Desenvolvimento de Software, Delphi, Python, Back-end, Automação, Integração de Sistemas, APIs, Low-Code/No-Code e Inteligência Artificial**.
 
 ## 🌐 Contato Profissional
 
