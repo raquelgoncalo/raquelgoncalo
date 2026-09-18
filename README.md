@@ -1,38 +1,88 @@
 # 👋 Olá! Eu sou Raquel Gonçalo
 
-### 💻 Desenvolvedora de Sistemas | Automação | Integrações | Inteligência Artificial
+## Desenvolvedora de Sistemas | Software Developer | Automação | APIs | Inteligência Artificial
 
-Desenvolvo sistemas web, aplicações de gestão, automações e integrações utilizando desenvolvimento tradicional, Low-Code e No-Code.
+Sou **Desenvolvedora de Sistemas**, com experiência no desenvolvimento de aplicações web, sistemas de gestão, automações, integrações de APIs e soluções com Inteligência Artificial.
 
-Tenho experiência com **Delphi, Bubble.io, Supabase, PostgreSQL, n8n, JavaScript, Python, APIs REST e Inteligência Artificial**, criando soluções para automatizar processos e resolver necessidades reais de empresas.
+Atuo com desenvolvimento tradicional, **Low-Code e No-Code**, utilizando tecnologias como **Delphi, JavaScript, Python, Bubble.io, PostgreSQL, Supabase e n8n**.
 
-## 🚀 Tecnologias e Ferramentas
+Tenho experiência na criação de soluções que integram sistemas, bancos de dados, APIs e serviços externos, com foco em **automação de processos, desenvolvimento de software e integração de sistemas**.
 
-- **Desenvolvimento:** Delphi, Bubble.io, JavaScript, Python, HTML e CSS
-- **Banco de Dados:** PostgreSQL, SQL e Supabase
-- **Automação:** n8n, Webhooks e integrações entre sistemas
-- **APIs:** REST APIs e integrações com serviços externos
-- **Inteligência Artificial:** Agentes de IA, automações com IA e Engenharia de Prompt
-- **Ferramentas:** Git, GitHub, Visual Studio Code, Jupyter Notebook e JupyterLab
+## 💻 Competências Técnicas
 
-## 💼 O que desenvolvo
+**Linguagens e Desenvolvimento**
 
-- Sistemas web e administrativos
-- Sistemas de gestão
-- Dashboards e painéis administrativos
-- Automações de processos
-- Integrações entre sistemas e APIs
-- Automações de WhatsApp
-- Soluções utilizando Inteligência Artificial
-- Bancos de dados e back-end com Supabase/PostgreSQL
+* Delphi
+* JavaScript
+* Python
+* HTML
+* CSS
+* SQL
 
-## 📌 Projetos em destaque
+**Banco de Dados e Back-end**
 
-Estou organizando neste GitHub projetos de desenvolvimento de sistemas, automações, integrações, APIs e Inteligência Artificial.
+* PostgreSQL
+* Supabase
+* SQL
+* Modelagem e gerenciamento de dados
+* Integração com bancos de dados
 
-Novos projetos serão adicionados gradualmente com documentação técnica e demonstrações.
+**Automação e Integrações**
 
-## 🌐 Contato profissional
+* n8n
+* Webhooks
+* APIs REST
+* Integração de sistemas
+* Automação de processos
+* Automação de workflows
+* Integrações com WhatsApp
+
+**Inteligência Artificial**
+
+* Integração de IA em aplicações
+* Agentes de IA
+* Automação com Inteligência Artificial
+* Engenharia de Prompt
+* Integração com APIs de IA
+
+**Low-Code / No-Code**
+
+* Bubble.io
+* n8n
+* Supabase
+
+**Ferramentas de Desenvolvimento**
+
+* Git
+* GitHub
+* Visual Studio Code
+* Jupyter Notebook
+* JupyterLab
+
+## 💼 Áreas de Atuação
+
+* Desenvolvimento de sistemas
+* Desenvolvimento de aplicações web
+* Sistemas administrativos e de gestão
+* Desenvolvimento Back-end
+* Bancos de dados PostgreSQL
+* Dashboards e painéis administrativos
+* Integração de APIs REST
+* Integração entre sistemas
+* Automação de processos
+* Desenvolvimento Low-Code e No-Code
+* Automações com n8n
+* Soluções com Inteligência Artificial
+* Agentes de IA
+* Integrações com WhatsApp
+
+## 🎯 Perfil Profissional
+
+Meu objetivo é desenvolver soluções de software que combinem **desenvolvimento de sistemas, bancos de dados, APIs, automação e Inteligência Artificial**.
+
+Tenho interesse em oportunidades relacionadas a **Desenvolvimento de Sistemas, Desenvolvimento de Software, Back-end, Automação, Integração de Sistemas, APIs, Low-Code/No-Code e Inteligência Artificial**.
+
+## 🌐 Contato Profissional
 
 **Portfólio:** https://portfolee.bubbleapps.io/version-test
 
