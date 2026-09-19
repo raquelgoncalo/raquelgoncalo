@@ -65,7 +65,7 @@ Desenvolvimento de Sistemas • Software Development • Delphi • Python • B
 ## 🌐 Contato Profissional
 
 **Portfólio:**  
-https://portfolee.bubbleapps.io/version-test
+https://raquelgoncalo.github.io/portfolio-raquel/
 
 **LinkedIn:**  
 https://linkedin.com/in/raquelgoncalooficial
