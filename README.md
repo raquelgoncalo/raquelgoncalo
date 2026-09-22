@@ -88,27 +88,6 @@ Desenvolvimento e integração de soluções utilizando Bubble.io, n8n e Supabas
 
 ---
 
-# 🚀 Projetos em Destaque
-
-> Alguns dos projetos que representam minhas principais áreas de desenvolvimento.
-
-### 🤖 Projeto de Automação com IA
-Automação de processos utilizando **n8n, APIs e Inteligência Artificial**.
-
-`n8n` `APIs` `Webhooks` `IA`
-
-### 🔗 Projeto de Integração de Sistemas
-Integração entre aplicações e serviços utilizando **Python, APIs REST e banco de dados**.
-
-`Python` `REST API` `PostgreSQL` `Supabase`
-
-### 🧠 Projeto com Agentes de IA
-Desenvolvimento de soluções utilizando **agentes de IA, Engenharia de Prompt e integração com APIs de modelos de IA**.
-
-`Python` `AI Agents` `APIs` `Prompt Engineering`
-
----
-
 ## 🌐 Contato
 
 <p align="center">
