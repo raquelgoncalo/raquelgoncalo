@@ -76,32 +76,3 @@ Tenho foco principalmente em:
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-# 💼 Áreas de Atuação
-
-```text
-Desenvolvimento de Sistemas
-├── Python
-├── Back-end
-├── APIs REST
-├── PostgreSQL
-├── Supabase
-├── Integração de Sistemas
-│
-├── Automação
-│   ├── n8n
-│   ├── Webhooks
-│   └── Workflows
-│
-├── Inteligência Artificial
-│   ├── Agentes de IA
-│   ├── Automações com IA
-│   ├── Engenharia de Prompt
-│   └── Integração com APIs de IA
-│
-└── Low-Code / No-Code
-    ├── Bubble.io
-    ├── n8n
-    └── Supabase
