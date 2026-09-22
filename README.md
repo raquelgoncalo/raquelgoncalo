@@ -5,7 +5,7 @@ Desenvolvedora de Sistemas • Python • Back-end • APIs • Automação • 
 </h3>
 
 <p align="center">
-Desenvolvo soluções conectando software, bancos de dados, APIs, automação e Inteligência Artificial.
+Desenvolvo soluções conectando software, dados, APIs, automação e Inteligência Artificial.
 </p>
 
 <p align="center">
@@ -21,21 +21,30 @@ Desenvolvo soluções conectando software, bancos de dados, APIs, automação e 
 
 ## 👩‍💻 Sobre mim
 
-Sou **Desenvolvedora de Sistemas**, com experiência no desenvolvimento de aplicações, automações, integrações entre sistemas e soluções utilizando **Inteligência Artificial**.
+Sou **Desenvolvedora de Sistemas**, com foco em **Python, Back-end, APIs, automação e Inteligência Artificial**.
 
-Atuo com desenvolvimento de software e tecnologias **Low-Code / No-Code**, criando soluções que integram aplicações, bancos de dados, APIs e serviços externos.
+Desenvolvo aplicações, integrações e automações que conectam **software, bancos de dados, APIs e serviços externos**, utilizando também tecnologias **Low-Code / No-Code** para construção e integração de soluções.
 
-Tenho foco principalmente em:
+Atualmente, venho aprofundando meus conhecimentos no desenvolvimento de **agentes de IA, automações inteligentes e integração de modelos de Inteligência Artificial com aplicações e workflows**.
 
-- 🐍 Desenvolvimento com **Python**
-- ⚙️ Desenvolvimento **Back-end**
-- 🔗 Desenvolvimento e integração de **APIs REST**
-- 🗄️ Bancos de dados **PostgreSQL e Supabase**
-- 🤖 **Automação de processos** e workflows
-- 🔄 Automações utilizando **n8n**
-- 🧠 Integração de **Inteligência Artificial**
-- 🤖 Desenvolvimento de **Agentes de IA**
-- 🌐 Desenvolvimento **Low-Code / No-Code**
+---
+
+## 💼 O que desenvolvo
+
+🔗 **APIs & Integrações**  
+Integração entre aplicações, serviços externos, APIs REST e Webhooks.
+
+⚙️ **Automação de Processos**  
+Criação de workflows e automações utilizando n8n, APIs e serviços externos.
+
+🧠 **Inteligência Artificial**  
+Integração de IA em aplicações, agentes de IA, Engenharia de Prompt e automações inteligentes.
+
+🗄️ **Back-end & Dados**  
+Desenvolvimento de regras de negócio e soluções utilizando PostgreSQL, SQL e Supabase.
+
+🌐 **Low-Code / No-Code**  
+Desenvolvimento e integração de soluções utilizando Bubble.io, n8n e Supabase.
 
 ---
 
@@ -53,8 +62,8 @@ Tenho foco principalmente em:
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/WEBHOOKS-333333?style=for-the-badge&logo=webhook&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/WEBHOOKS-333333?style=for-the-badge)
 
 ### ⚙️ Automação & Low-Code / No-Code
 
@@ -64,10 +73,10 @@ Tenho foco principalmente em:
 
 ### 🧠 Inteligência Artificial
 
-![AI](https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AGENTES_DE_IA-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AUTOMAÇÃO_COM_IA-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI](https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-412991?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AGENTES_DE_IA-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-4B8BBE?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AUTOMAÇÃO_COM_IA-EA4B71?style=for-the-badge)
 
 ### 🛠️ Ferramentas
 
@@ -76,3 +85,41 @@ Tenho foco principalmente em:
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+# 🚀 Projetos em Destaque
+
+> Alguns dos projetos que representam minhas principais áreas de desenvolvimento.
+
+### 🤖 Projeto de Automação com IA
+Automação de processos utilizando **n8n, APIs e Inteligência Artificial**.
+
+`n8n` `APIs` `Webhooks` `IA`
+
+### 🔗 Projeto de Integração de Sistemas
+Integração entre aplicações e serviços utilizando **Python, APIs REST e banco de dados**.
+
+`Python` `REST API` `PostgreSQL` `Supabase`
+
+### 🧠 Projeto com Agentes de IA
+Desenvolvimento de soluções utilizando **agentes de IA, Engenharia de Prompt e integração com APIs de modelos de IA**.
+
+`Python` `AI Agents` `APIs` `Prompt Engineering`
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://raquelgoncalo.github.io/portfolio-raquel/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/raquelgoncalooficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <b>Python • Back-end • APIs • Automação • Inteligência Artificial</b>
+</p>
