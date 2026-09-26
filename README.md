@@ -1,104 +1,206 @@
-<h1 align="center">Olá, eu sou Raquel Gonçalo 👋</h1>
+# Olá, eu sou Raquel Gonçalo 👋
 
-<h3 align="center">
-Desenvolvedora de Sistemas • Python • Back-end • APIs • Automação • Inteligência Artificial
-</h3>
+### 💻 Desenvolvedora Full Stack | Python | JavaScript | Front-end | Back-end | APIs | SQL/PostgreSQL
 
-<p align="center">
-Desenvolvo soluções conectando software, dados, APIs, automação e Inteligência Artificial.
-</p>
-
-<p align="center">
-  <a href="https://raquelgoncalo.github.io/portfolio-raquel/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/raquelgoncalooficial">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+Desenvolvo aplicações web responsivas, interfaces, back-end, APIs, bancos de dados, integrações e automações.
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou **Desenvolvedora de Sistemas**, com foco em **Python, Back-end, APIs, automação e Inteligência Artificial**.
+Sou **Desenvolvedora Full Stack**, com experiência no desenvolvimento e manutenção de aplicações web, sistemas de gestão, dashboards, integrações e automações.
 
-Desenvolvo aplicações, integrações e automações que conectam **software, bancos de dados, APIs e serviços externos**, utilizando também tecnologias **Low-Code / No-Code** para construção e integração de soluções.
+Atuo tanto no **Front-end quanto no Back-end**, trabalhando com tecnologias como **Python, JavaScript, HTML, CSS, SQL, PostgreSQL, APIs REST, Git/GitHub e Docker**.
 
-Atualmente, venho aprofundando meus conhecimentos no desenvolvimento de **agentes de IA, automações inteligentes e integração de modelos de Inteligência Artificial com aplicações e workflows**.
+Também possuo experiência com ferramentas e plataformas como **Supabase, Bubble.io e n8n**, utilizadas na construção de sistemas, bancos de dados, integrações e automação de processos.
+
+Tenho interesse especial em desenvolvimento de software, APIs, dados, automação e Inteligência Artificial, buscando construir soluções funcionais, organizadas e orientadas às necessidades do negócio.
 
 ---
 
 ## 💼 O que desenvolvo
 
-🔗 **APIs & Integrações**  
-Integração entre aplicações, serviços externos, APIs REST e Webhooks.
+### 🎨 Front-end & Interfaces Web
 
-⚙️ **Automação de Processos**  
-Criação de workflows e automações utilizando n8n, APIs e serviços externos.
+Desenvolvimento de interfaces web responsivas utilizando **HTML, CSS e JavaScript**, com foco em usabilidade, organização visual e integração com back-end e APIs.
 
-🧠 **Inteligência Artificial**  
-Integração de IA em aplicações, agentes de IA, Engenharia de Prompt e automações inteligentes.
+### ⚙️ Back-end & APIs
 
-🗄️ **Back-end & Dados**  
-Desenvolvimento de regras de negócio e soluções utilizando PostgreSQL, SQL e Supabase.
+Desenvolvimento de regras de negócio, serviços back-end e integração de aplicações através de **Python, APIs REST, JSON, requisições HTTP e Webhooks**.
 
-🌐 **Low-Code / No-Code**  
-Desenvolvimento e integração de soluções utilizando Bubble.io, n8n e Supabase.
+### 🗄️ Banco de Dados
+
+Modelagem, consulta e manipulação de bancos de dados relacionais utilizando **SQL e PostgreSQL**, além da integração de bancos de dados com aplicações web.
+
+### 🔗 APIs & Integrações
+
+Integração entre aplicações, bancos de dados, APIs REST, Webhooks e serviços externos.
+
+### ⚡ Automação de Processos
+
+Criação de fluxos automatizados e integração entre sistemas utilizando **Python, n8n, APIs e Webhooks**.
+
+### 🤖 Inteligência Artificial
+
+Desenvolvimento e estudo de soluções envolvendo **Inteligência Artificial, integração de modelos de IA, agentes, automações e Prompt Engineering**.
+
+### 🧩 Low-Code / No-Code
+
+Experiência na construção e integração de soluções utilizando **Bubble.io, n8n e Supabase**.
 
 ---
 
 # 🧰 Stack Tecnológica
 
-### 💻 Desenvolvimento
+## 🎨 Front-end
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
-### 🗄️ Back-end & Banco de Dados
+## ⚙️ Back-end & APIs
 
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/WEBHOOKS-333333?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-000?style=for-the-badge)
 
-### ⚙️ Automação & Low-Code / No-Code
+## 🗄️ Banco de Dados
 
-![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Bubble](https://img.shields.io/badge/BUBBLE-000000?style=for-the-badge&logo=bubble&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
 
-### 🧠 Inteligência Artificial
+## ⚡ Automação & Low-Code / No-Code
 
-![AI](https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-412991?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AGENTES_DE_IA-000000?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-4B8BBE?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AUTOMAÇÃO_COM_IA-EA4B71?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
+![Bubble](https://img.shields.io/badge/Bubble.io-000?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
 
-### 🛠️ Ferramentas
+## 🤖 Inteligência Artificial
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-000?style=for-the-badge)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000?style=for-the-badge)
+![Automação com IA](https://img.shields.io/badge/Automação_com_IA-000?style=for-the-badge)
+
+## 🛠️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
 
 ---
 
-## 🌐 Contato
+# 🚀 Projetos em Destaque
 
-<p align="center">
-  <a href="https://raquelgoncalo.github.io/portfolio-raquel/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/raquelgoncalooficial">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+## 🎓 Student Success Platform
 
-<p align="center">
-  <b>Python • Back-end • APIs • Automação • Inteligência Artificial</b>
-</p>
+Plataforma desenvolvida em **Python** para análise de dados e acompanhamento do engajamento de alunos.
+
+Principais recursos:
+
+- Dashboard interativo
+- Análise de engajamento
+- Classificação baseada em regras de negócio
+- Identificação de alunos prioritários
+- Indicadores e visualizações
+- Análise de tendências
+- Interface web com Streamlit
+
+**Tecnologias:** Python • Pandas • Streamlit • Plotly
+
+🌐 Aplicação:
+https://student-success-platform.streamlit.app/
+
+---
+
+## 🛒 Mini Marketplace
+
+Aplicação web de marketplace desenvolvida para demonstrar conhecimentos de **Front-end e JavaScript**.
+
+Principais recursos:
+
+- Interface responsiva
+- Listagem de produtos
+- Pesquisa de produtos
+- Interações utilizando JavaScript
+- Estruturação com HTML semântico
+- Estilização responsiva
+
+**Tecnologias:** HTML5 • CSS3 • JavaScript
+
+---
+
+## ☕ Nova Cafeteria
+
+Projeto de interface web responsiva desenvolvido para uma cafeteria.
+
+O projeto demonstra conhecimentos em estruturação de páginas, estilização, responsividade e desenvolvimento de interfaces para diferentes tamanhos de tela.
+
+**Tecnologias:** HTML5 • CSS3
+
+---
+
+## 🛒 ComparaPreço — Em desenvolvimento
+
+Aplicação para comparação de preços de produtos entre diferentes mercados.
+
+O projeto está sendo desenvolvido com foco em:
+
+- Pesquisa de produtos
+- Comparação de preços
+- Filtros por cidade e categoria
+- Comparação por preço por unidade/kg
+- Carrinho de compras
+- Cadastro de mercados
+- Gestão de produtos e preços
+- Sugestões de preços por clientes
+- Aprovação de sugestões pelos estabelecimentos
+- Localização de mercados
+
+**Tecnologias:** Python • Streamlit • PostgreSQL
+
+---
+
+# 📚 Atualmente estudando e aprimorando
+
+- Python para Back-end
+- APIs REST
+- PostgreSQL e SQL
+- Arquitetura de aplicações
+- Docker
+- Desenvolvimento Full Stack
+- Análise de Dados
+- Automação
+- Inteligência Artificial
+
+---
+
+# 🎯 Áreas de Interesse
+
+Tenho interesse em oportunidades relacionadas a:
+
+- Desenvolvimento Full Stack
+- Desenvolvimento Python
+- Back-end
+- Front-end
+- APIs e Integrações
+- Banco de Dados
+- Automação de Processos
+- Análise de Dados
+- Inteligência Artificial
+
+---
+
+# 🌐 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/raquelgoncalo)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raquelgoncalooficial/)
+
+---
+
+### 💻 Full Stack • Front-end • Back-end • Python • JavaScript • APIs • SQL/PostgreSQL • Automação
