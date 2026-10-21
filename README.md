@@ -51,17 +51,3 @@ Sou **desenvolvedora Full Stack** com experiência em projetos freelancer e corp
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Bubble](https://img.shields.io/badge/Bubble.io-315EFF?style=for-the-badge)
-
-## 📫 Vamos conversar?
-
-Estou aberta a conexões profissionais, colaborações e oportunidades em desenvolvimento de software.
-
-- 💼 [LinkedIn](https://linkedin.com/in/raquelgoncalooficial)
-- 💻 [GitHub](https://github.com/raquelgoncalo)
-- ✉️ [E-mail](mailto:raquelgoncalo21@gmail.com)
-
----
-
-<div align="center">
-
-</div>
