@@ -52,28 +52,6 @@ Sou **desenvolvedora Full Stack** com experiência em projetos freelancer e corp
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Bubble](https://img.shields.io/badge/Bubble.io-315EFF?style=for-the-badge)
 
-## 📌 Projetos em destaque
-
-### 🔐 [Customer Management API](https://github.com/raquelgoncalo/customer-management-api)
-API REST de gestão de clientes com **FastAPI, PostgreSQL, SQLAlchemy, autenticação JWT, Argon2 e validação Pydantic**.
-
-🔗 [Documentação Swagger / Deploy](https://customer-management-api-9yft.onrender.com/docs)
-
-### 📊 [Student Success Platform](https://github.com/raquelgoncalo/student-success-platform)
-Dashboard de análise de engajamento de alunos com **Python, Streamlit, Pandas e Plotly**, usando dados sintéticos para demonstração.
-
-🔗 [Acessar demonstração](https://student-success-platform.streamlit.app)
-
-### 📦 Sistema de Gestão de Estoque — em desenvolvimento
-Aplicação com **Python, Flask, PostgreSQL e Supabase** para gestão de produtos, fornecedores, movimentações, estoque mínimo, relatórios e controle de acesso.
-
-🔗 [Deploy no Render](https://gestao-estoque-m7s4.onrender.com) · Repositório privado
-
-### 🧰 [Suporte N2 — Java e Oracle PL/SQL](https://github.com/raquelgoncalo/suporte-n2-java)
-Projeto de simulação de suporte a aplicações com **Java 21, tratamento de exceções, análise de stack traces e procedures PL/SQL**.
-
-> Os cards acima dependem de um serviço externo e podem ficar indisponíveis temporariamente.
-
 ## 📫 Vamos conversar?
 
 Estou aberta a conexões profissionais, colaborações e oportunidades em desenvolvimento de software.
