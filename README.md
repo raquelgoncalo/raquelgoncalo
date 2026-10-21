@@ -64,6 +64,4 @@ Estou aberta a conexões profissionais, colaborações e oportunidades em desenv
 
 <div align="center">
 
-**Código bem estruturado, aprendizado contínuo e soluções para problemas reais.**
-
 </div>
